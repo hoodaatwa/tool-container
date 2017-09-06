@@ -1,0 +1,66 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1">
+  <title>jQuery UI Accordion - Default functionality</title>
+  <link rel="stylesheet" href="//code.jquery.com/ui/1.12.1/themes/base/jquery-ui.css">
+  <link rel="stylesheet" href="/resources/demos/style.css">
+  <script src="https://code.jquery.com/jquery-1.12.4.js"></script>
+  <script src="https://code.jquery.com/ui/1.12.1/jquery-ui.js"></script>
+  <script>
+  $( function() {
+    $( "#accordion" ).accordion();
+  } );
+  </script>
+</head>
+<body>
+ 
+<div id="accordion">
+  <h3>photoshop</h3>
+  <div>
+    <div dir="rtl" style="text-align: right;" trbidi="on">
+<iframe align="middle" border="0" frameborder="0" height="650" name="ps" src="http://pixlr.com/editor/" width="750"></iframe><br />
+<div id="fb-root">
+</div>
+<div style="text-align: center;">
+<script>(function(d, s, id) {
+  var js, fjs = d.getElementsByTagName(s)[0];
+  if (d.getElementById(id)) return;
+  js = d.createElement(s); js.id = id;
+  js.src = "//connect.facebook.net/ar_AR/all.js#xfbml=1";
+  fjs.parentNode.insertBefore(js, fjs);[url=http://chatolk.blogspot.com/] شتولك للدردشة[/url]
+}(document, 'script', 'facebook-jssdk'));</script><span style="color: #999999; font-size: xx-small;">
+product by <a href="http://chatolk.blogspot.com/2014/04/photo-shop-online.html" ><span style="color: #999999;">43araby</span></a></span></div>
+</div>  
+  </div>
+  <h3> quran</h3>
+  <div>
+    
+    <div style="text-align: center;">
+    <iframe height="800" src="http://www.quranflash.com/books/Medina1/?ar&amp;skin=textile&amp;aff" width="auto"></iframe></div>
+
+  </div>
+  <h3>محول أكواد html</h3>
+  <div>
+    <div dir="rtl" style="text-align: right;" trbidi="on">
+<iframe frameborder="0" height="242" scrolling="no" src="http://www-open-opensocial.googleusercontent.com/gadgets/ifr?url=http%3A%2F%2Fhosting.gmodules.com%2Fig%2Fgadgets%2Ffile%2F102462998830435293579%2Fpost-Code.xml&amp;container=open&amp;view=home&amp;lang=all&amp;country=ALL&amp;debug=0&amp;nocache=0&amp;sanitize=0&amp;v=ede4e69d2e15d83b&amp;source=http%3A%2F%2Fadsense-converter.blogspot.com%2F&amp;parent=http%3A%2F%2Fadsense-converter.blogspot.com%2F&amp;libs=core%3Acore.io#up_grows=10&amp;up_conv1=1&amp;up_conv2=1&amp;up_conv3=1&amp;up_conv4=1&amp;up_conv5=1&amp;st=%25st%25" style="display: block;" width="560"></iframe></div>
+
+   
+  </div>
+  <h3>about us</h3>
+  <div>
+   
+    <h1 herf="https://plus.google.com/112436632292125580081">hooda atwa</h1>
+   
+ <p>
+    developed by 
+    </p>
+    <h2 herf="http://43araby.blogspot.com.eg">43araby</h2>
+    
+    </div>
+</div>
+ 
+ 
+</body>
+</html>
