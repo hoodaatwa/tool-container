@@ -1,0 +1,15 @@
+<a id="youtube-video">Click to see a youtube video</a>
+
+<script type="text/javascript">
+$(document).ready(function(){
+$("#youtube-video").click(function(){
+var params = {};
+params.type = 'youtube';
+params.src = 'http://www.youtube.com/embed/PGMQZEIXBMs';
+params.height = 400;
+params.width = 600;
+// Opens the lightbox
+ws_lightbox.open(params);
+});
+});
+</script>
